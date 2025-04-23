@@ -38,9 +38,9 @@ export default function Footer(){
           </div>
         <div className="float-right w-1/2">
             <ul className="*:float-right *:mr-12">
-                <li className=""><FaFacebookF /></li>
-                <li className=""><FaTwitter /></li>
-                <li className=""><FaInstagram /></li>
+                <li className=""><a href='https://www.facebook.com/' target='_blank'><FaFacebookF /></a></li>
+                <li className=""><a href='https://x.com/' target='_blank'><FaTwitter /></a></li>
+                <li className=""><a href='https://www.instagram.com/' target='_blank'><FaInstagram /></a></li>
             </ul>
         </div>
     </div>
